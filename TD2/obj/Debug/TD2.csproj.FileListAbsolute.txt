@@ -1,0 +1,7 @@
+C:\Users\khady\source\TD\TD2\TD2\bin\Debug\TD2.exe.config
+C:\Users\khady\source\TD\TD2\TD2\bin\Debug\TD2.exe
+C:\Users\khady\source\TD\TD2\TD2\bin\Debug\TD2.pdb
+C:\Users\khady\source\TD\TD2\TD2\obj\Debug\TD2.csproj.AssemblyReference.cache
+C:\Users\khady\source\TD\TD2\TD2\obj\Debug\TD2.csproj.CoreCompileInputs.cache
+C:\Users\khady\source\TD\TD2\TD2\obj\Debug\TD2.exe
+C:\Users\khady\source\TD\TD2\TD2\obj\Debug\TD2.pdb
